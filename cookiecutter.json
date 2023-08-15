@@ -1,0 +1,10 @@
+{
+    "project_name": "Cookiecutter Personal",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_description": "trabajando_con_entornos_virtuales",
+    "project_author_name": "jhonfypy",
+    "project_author_email": "correo@example.com",
+    "project_packages": ["All"],
+    "project_version": "0.1.0",
+    "python_version": "3.7"
+  }
